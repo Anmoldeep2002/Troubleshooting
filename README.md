@@ -132,16 +132,52 @@ STEP 2 (PASSWORD RESET): </p>
 <p align="center">As you can see, John can now log in again because he has been given a new password to access his account.</p>
 
 
+<hr width="100%" size="2">
+
+<br/>
+
+<p align="center"> 
+STEP 3 (ENABLE ACCOUNT): </p> 
+
+<p align="center">In this scenario, John has returned from his vacation but discovered that his account has been disabled. After a long period of inactivity, his account was blocked, and the error notice on the login screen prompted John to contact the administrator to resolve the issue.</p>
+
+<br/>
+
+<p align="center"> 
+<img src="https://i.imgur.com/SRdxrc5.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">As you can see, John's account is disabled, and the login screen instructs the user to contact the system administrator to fix the issue.</p>
 
 
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/MtxoOuO.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">To resolve the problem mentioned earlier, the first step would be to access Active Directory Users and Computers via the helpdesk account. As you can see, I located John's account from the HR folder.</p>
 
 
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/TlLEvud.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">Now I'm right-clicking on the account to view its settings. I then select "ENABLE ACCOUNT" to enable John's account. The second image shows that John's account has been successfully enabled.</p>
+
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/kvF4u7H.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">As you can see, John can now log into his account without issue.</p>
 
 
 
